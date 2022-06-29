@@ -1,2 +1,2 @@
 # go-cache-challenge
-creating a cache using go
+creating a simple cache that removes the cache key when it expires
